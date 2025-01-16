@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Bronze Trophy
-- [ ] Brass Candlestick
+- [X] Brass Candlestick
 - [ ] Silver Watch
 
 ## Notes
@@ -20,5 +20,5 @@ Walking stick was not the weapon. Found in cellar.
 The baker is not a suspect. Found in living room. 
 The Inkeeper and The Tailor are not suspects. Both found in mansion. 
 Clockmaker was not the criminal. Found in the Study, already checked out of the culprits list in this same notebook. Found a hint, it leads to the park
-
+The hint leaded to a new one: the town hall. Also, found that the brass candlestick was not the weapon. 
 Location of the crime is still unknown - the room must have been empty when it happened...
