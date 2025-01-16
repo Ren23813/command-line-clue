@@ -15,5 +15,6 @@
 Glass bottle is not a weapon. Found in the school kitchen.
 Florist is not sus. Also, old key is not a weapon. Found in school science lab. 
 Letter oppener is not a weapon. Found in school gymnasium. 
+The Banker is not a suspect. Found in the houses cottage.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
