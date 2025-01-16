@@ -18,5 +18,6 @@ Letter oppener is not a weapon. Found in school gymnasium.
 The Banker is not a suspect. Found in the houses cottage.
 Walking stick is not a weapon. Found in cellar. 
 The baker is not a suspect. Found in living room.
+The Inkeeper and The Tailor are not suspects. Both found in mansion.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
